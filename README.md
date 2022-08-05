@@ -4,7 +4,7 @@
 <h2>Description</h2>
 <h4>The <b>_printf()</b> function produce output according to a format as described below. Also, write output to stdout, the standard output stream.
 
-The <b>_printf()</b> function write the output under the control of a format string that specifies how subsequent arguments (or arguments accessed via the variable-length argument facilities of stdarg(3) are converted for output.</h4>
+The <b>\_printf()</b> function write the output under the control of a format string that specifies how subsequent arguments (or arguments accessed via the variable-length argument facilities of stdarg(3) are converted for output.</h4>
 
 <h2>Format of the format string</h2>
 <h4>The format string is a character string, beginning and ending inits initial shift state, if any. The format string is composed of zero or more directives: ordinary characters (not %), which are copied unchanged to the output stream; and conversion specifications, each of which results in fetching zero or more subsequent arguments. Each conversion specification is introduced by the character % and ends with conversion specifier.</h4>
@@ -54,4 +54,4 @@ The <b>_printf()</b> function write the output under the control of a format str
 If an output error is encountered, a negative value is returned.</h4>
 
 <h2>Authors</h2>
-<h3>rhomeinel & Theodorh123</h3>
+<h3>t-Spirit & godwhin</h3>
